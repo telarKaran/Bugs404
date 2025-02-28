@@ -1,3 +1,5 @@
+![We Won](./we_won🥳🥳.png)
+
 # Travelling Fun Factor calculator
 
 
